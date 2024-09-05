@@ -14,9 +14,11 @@ description: >
   tousled umami keytar lyft. Asymmetrical banjo master cleanse artisan
   williamsburg heirloom iPhone tacos sus synth yuccie echo park blue bottle
   gluten-free.
+year: 2023
 images:
   - src: /assets/uploads/wallhaven-jx1ex5.jpg
     caption: neons
 date: 2024-09-05T00:51:51.736Z
 ---
 
+Nah
